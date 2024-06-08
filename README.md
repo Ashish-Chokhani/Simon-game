@@ -13,7 +13,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simon-game.git
+   git clone https://github.com/Ashish-Chokhani/simon-game.git
    ```
 
 2. Navigate to the project directory:
@@ -22,3 +22,28 @@ To run this project locally, follow these steps:
    ```
 
 3. Open `index.html` in your web browser to play the game.
+
+## Project Structure
+- sounds: Contains sound files for each color and the wrong answer sound.
+  - `blue.mp3`
+  - `green.mp3`
+  - `red.mp3`
+  - `yellow.mp3`
+  - `wrong.mp3`
+    
+- index.html: The main HTML file for the game interface.
+- game.js: JavaScript file containing the game logic.
+- styles.css: CSS file for styling the game.
+
+## How to Play
+- Open the `index.html` file in a web browser.
+- Press any key to start the game.
+- The game will start with a single tone and light.
+- Repeat the sequence by clicking the colored buttons.
+- The game will add an additional tone and light to the sequence each round.
+- Continue repeating the sequence as it gets longer and more complex.
+- If you make a mistake, the game will display "Game Over" and you can restart by pressing any key.
+
+## Contribution
+We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.
+
