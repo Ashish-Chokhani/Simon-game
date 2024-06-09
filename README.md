@@ -13,12 +13,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ashish-Chokhani/simon-game.git
+   git clone https://github.com/Ashish-Chokhani/Simon-game.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd simon-game
+   cd Simon-game
    ```
 
 3. Open `index.html` in your web browser to play the game.
